@@ -1,6 +1,6 @@
 # SOLID Principles
 
-- ######[SRP [S] - Принцип единой ответственности](#srp_principle)
+- ###### [SRP [S] - Принцип единой ответственности](#srp_principle)
 
 
 
